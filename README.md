@@ -156,8 +156,7 @@ European Forests は、下記の手順でインストールすることができ
 
 ### 表示する立木の CSV の設定
 本プロジェクトでは、CSV ファイルで立木の位置や属性を管理しています。
-本プロジェクトで利用している[サンプル データ](./3DForestViewer/Assets/StreamingAssets
-/Obayashi_2451_WGS84_0226.csv)は、[大林組技術研究所内の雑木林](https://www.obayashi.co.jp/obytri/facility/natural-wood/)の立木情報です。
+本プロジェクトで利用している[サンプル データ](./3DForestViewer/Assets/StreamingAssets/Obayashi_2451_WGS84_0226.csv)は、[大林組技術研究所内の雑木林](https://www.obayashi.co.jp/obytri/facility/natural-wood/)の立木情報です。
 別の立木を表示する際には、下記のカラム名で CSV を作成してください。
 
 |カラム名|カラム詳細|
