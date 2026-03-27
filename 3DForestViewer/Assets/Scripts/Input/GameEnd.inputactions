@@ -1,0 +1,46 @@
+{
+    "version": 1,
+    "name": "GameEnd",
+    "maps": [
+        {
+            "name": "Ending",
+            "id": "6f305758-9cbf-4f8e-ae92-5624dd3c58c0",
+            "actions": [
+                {
+                    "name": "Quit",
+                    "type": "Button",
+                    "id": "6b9ea180-7df4-421b-8bb9-181c5dcf9433",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d5f01462-b8ca-43e1-9edb-5ea48438b613",
+                    "path": "<Keyboard>/p",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Quit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "89c6c844-6fb4-4e9b-a38c-39146c84a660",
+                    "path": "<XInputController>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Quit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

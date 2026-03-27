@@ -1,0 +1,85 @@
+{
+    "version": 1,
+    "name": "UIAction",
+    "maps": [
+        {
+            "name": "SwitchDisplay",
+            "id": "0b3ccbde-4654-4b4e-9974-170c4d26fb08",
+            "actions": [
+                {
+                    "name": "Display",
+                    "type": "Button",
+                    "id": "74fe893d-3441-47ed-acad-0483b0b3c2a8",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9c485c47-6ddc-4e57-ae3b-ca1f9f48eade",
+                    "path": "<Keyboard>/#(E)",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Display",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e78895d7-6902-4bf3-8840-f138ef5c46dd",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Display",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "SelectAttribute",
+            "id": "31bf80b6-8ccd-47f8-9810-61510d96b652",
+            "actions": [
+                {
+                    "name": "SelectTree",
+                    "type": "Button",
+                    "id": "7b2d78f1-1046-4827-9403-2ca6dc03757e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "49065c54-1078-48ae-af2a-1f7b36d5f8f8",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SelectTree",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8af35a02-7aa1-4c8a-afc1-4c341c597757",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SelectTree",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
