@@ -278,10 +278,15 @@ Apache License Version 2.0(「本ライセンス」) に基づいてライセン
 > http://www.apache.org/licenses/LICENSE-2.0
 
 適用される法律または書面での同意によって命じられない限り、本ライセンスに基づいて頒布されるソフトウェアは、明示黙示を問わず、いかなる保証も条件もなしに「現状のまま」頒布されます。本ライセンスでの権利と制限を規定した文言については、本ライセンスを参照してください。
+
 ライセンスのコピーは本リポジトリの[ライセンス ファイル](./LICENSE)で利用可能です。
 
+
 また、本プロジェクトでは Unity Asset Store で配布されているアセットを使用しています。
+
 これらのアセットは Apache License 2.0 ではなく、[Unity Asset Store End User License Agreement (EULA)](https://unity.com/legal/as-terms) に基づき各ユーザーが個別に取得・利用する必要があります。
-本リポジトリには、Unity Asset Store で配布されているアセットのデータは含まれていません。
+
+本リポジトリには、Unity Asset Store で配布されている EULA に基づくアセットのデータは含まれていません。
+
 
 ESRIジャパン株式会社は、Unity Technologies またはその関連会社がスポンサーとなっているものでも、提携しているものでもありません。Unity は、米国およびその他の国における Unity Technologies またはその関連会社の商標または登録商標です。
